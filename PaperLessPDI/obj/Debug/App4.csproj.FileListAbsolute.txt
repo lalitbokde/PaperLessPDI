@@ -1,0 +1,127 @@
+C:\Users\Thinker\Documents\Visual Studio 2015\Projects\App4\App4\obj\Debug\App4.csprojResolveAssemblyReference.cache
+C:\Users\Thinker\Documents\Visual Studio 2015\Projects\App4\App4\bin\Debug\App4.dll.config
+C:\Users\Thinker\Documents\Visual Studio 2015\Projects\App4\App4\bin\Debug\App4.dll
+C:\Users\Thinker\Documents\Visual Studio 2015\Projects\App4\App4\bin\Debug\App4.pdb
+C:\Users\Thinker\Documents\Visual Studio 2015\Projects\App4\App4\bin\Debug\App4.App4.apk
+C:\Users\Thinker\Documents\Visual Studio 2015\Projects\App4\App4\bin\Debug\App4.App4-Signed.apk
+C:\Users\Thinker\Documents\Visual Studio 2015\Projects\App4\App4\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Thinker\Documents\Visual Studio 2015\Projects\App4\App4\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\Thinker\Documents\Visual Studio 2015\Projects\App4\App4\bin\Debug\Xamarin.Android.Support.Design.dll
+C:\Users\Thinker\Documents\Visual Studio 2015\Projects\App4\App4\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\Thinker\Documents\Visual Studio 2015\Projects\App4\App4\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\Thinker\Documents\Visual Studio 2015\Projects\App4\App4\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\Thinker\Documents\Visual Studio 2015\Projects\App4\App4\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\Thinker\Documents\Visual Studio 2015\Projects\App4\App4\bin\Debug\ZXing.Net.Mobile.Core.dll
+C:\Users\Thinker\Documents\Visual Studio 2015\Projects\App4\App4\bin\Debug\zxing.portable.dll
+C:\Users\Thinker\Documents\Visual Studio 2015\Projects\App4\App4\bin\Debug\ZXingNetMobile.dll
+C:\Users\Thinker\Documents\Visual Studio 2015\Projects\App4\App4\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Thinker\Documents\Visual Studio 2015\Projects\App4\App4\obj\Debug\App4.dll
+C:\Users\Thinker\Documents\Visual Studio 2015\Projects\App4\App4\obj\Debug\App4.pdb
+C:\Users\Thinker\Documents\Visual Studio 2015\Projects\App4\App4\obj\Debug\android\bin\App4.App4.apk
+C:\Users\Thinker\Documents\Visual Studio 2015\Projects\App4\App4\obj\Debug\res\layout\app_bar.xml
+C:\Users\Thinker\Documents\Visual Studio 2015\Projects\App4\App4\obj\Debug\res\layout\headerdrawerlayout.xml
+C:\Users\Thinker\Documents\Visual Studio 2015\Projects\App4\App4\obj\Debug\res\layout\homelayout.xml
+C:\Users\Thinker\Documents\Visual Studio 2015\Projects\App4\App4\obj\Debug\res\layout\loginlayout.xml
+C:\Users\Thinker\Documents\Visual Studio 2015\Projects\App4\App4\obj\Debug\res\values\colors.xml
+C:\Users\Thinker\Documents\Visual Studio 2015\Projects\App4\App4\obj\Debug\res\layout\checklistlayout.xml
+C:\Users\Thinker\Documents\Visual Studio 2015\Projects\App4\App4\obj\Debug\res\layout\ckecklistitemlist.xml
+C:\Users\Thinker\Documents\Visual Studio 2015\Projects\App4\App4\obj\Debug\res\layout\remarkupdatelayout.xml
+C:\Users\Thinker\Documents\Visual Studio 2015\Projects\App4\App4\obj\Debug\res\layout\main.xml
+C:\Users\Thinker\Documents\Visual Studio 2015\Projects\App4\App4\obj\Debug\res\values\strings.xml
+C:\Users\Thinker\Documents\Visual Studio 2015\Projects\App4\App4\obj\Debug\res\drawable\icon.png
+C:\Users\Thinker\Documents\Visual Studio 2015\Projects\App4\App4\obj\Debug\res\drawable\alert.png
+C:\Users\Thinker\Documents\Visual Studio 2015\Projects\App4\App4\obj\Debug\res\drawable\barcode1.jpg
+C:\Users\Thinker\Documents\Visual Studio 2015\Projects\App4\App4\obj\Debug\res\drawable\bgr.png
+C:\Users\Thinker\Documents\Visual Studio 2015\Projects\App4\App4\obj\Debug\res\drawable\ic_devices_black_24dp.png
+C:\Users\Thinker\Documents\Visual Studio 2015\Projects\App4\App4\obj\Debug\res\drawable\ic_send_request.png
+C:\Users\Thinker\Documents\Visual Studio 2015\Projects\App4\App4\obj\Debug\res\drawable\lock.png
+C:\Users\Thinker\Documents\Visual Studio 2015\Projects\App4\App4\obj\Debug\res\drawable\mahindralogo.jpg
+C:\Users\Thinker\Documents\Visual Studio 2015\Projects\App4\App4\obj\Debug\res\drawable\mahindrarise.png
+C:\Users\Thinker\Documents\Visual Studio 2015\Projects\App4\App4\obj\Debug\res\drawable\red_button.xml
+C:\Users\Thinker\Documents\Visual Studio 2015\Projects\App4\App4\obj\Debug\res\drawable\rounded_corner.xml
+C:\Users\Thinker\Documents\Visual Studio 2015\Projects\App4\App4\obj\Debug\res\drawable\rounded_withoutcorner.xml
+C:\Users\Thinker\Documents\Visual Studio 2015\Projects\App4\App4\obj\Debug\res\drawable\user.png
+C:\Users\Thinker\Documents\Visual Studio 2015\Projects\App4\App4\obj\Debug\res\values\styles.xml
+C:\Users\Thinker\Documents\Visual Studio 2015\Projects\App4\App4\obj\Debug\res\menu\action_menu.xml
+C:\Users\Thinker\Documents\Visual Studio 2015\Projects\App4\App4\obj\Debug\res\menu\navmenu.xml
+C:\Users\Thinker\Documents\Visual Studio 2015\Projects\App4\App4\obj\Debug\res\drawable\rounded_withoutcornerforheader.xml
+C:\Users\Thinker\Documents\Visual Studio 2015\Projects\App4\App4\obj\Debug\res\drawable\barcode.png
+C:\Users\Thinker\Documents\Visual Studio 2015\Projects\App4\App4\obj\Debug\R.cs.flag
+C:\Users\Thinker\Documents\Visual Studio 2015\Projects\App4\App4\obj\Debug\uploadflags.txt
+C:\Users\Thinker\Documents\Visual Studio 2015\Projects\App4\App4\bin\Debug\App4.dll.mdb
+C:\Users\Thinker\Documents\Visual Studio 2015\Projects\App4\App4\bin\Debug\Java.Interop.dll.mdb
+C:\Users\Thinker\Documents\Visual Studio 2015\Projects\App4\App4\bin\Debug\Mono.Android.dll.mdb
+C:\Users\Thinker\Documents\Visual Studio 2015\Projects\App4\App4\bin\Debug\mscorlib.dll.mdb
+C:\Users\Thinker\Documents\Visual Studio 2015\Projects\App4\App4\bin\Debug\System.ComponentModel.Composition.dll.mdb
+C:\Users\Thinker\Documents\Visual Studio 2015\Projects\App4\App4\bin\Debug\System.Core.dll.mdb
+C:\Users\Thinker\Documents\Visual Studio 2015\Projects\App4\App4\bin\Debug\System.dll.mdb
+C:\Users\Thinker\Documents\Visual Studio 2015\Projects\App4\App4\bin\Debug\System.Net.Http.dll.mdb
+C:\Users\Thinker\Documents\Visual Studio 2015\Projects\App4\App4\bin\Debug\System.Runtime.Serialization.dll.mdb
+C:\Users\Thinker\Documents\Visual Studio 2015\Projects\App4\App4\bin\Debug\System.ServiceModel.Internals.dll.mdb
+C:\Users\Thinker\Documents\Visual Studio 2015\Projects\App4\App4\bin\Debug\System.Xml.dll.mdb
+C:\Users\Thinker\Documents\Visual Studio 2015\Projects\App4\App4\bin\Debug\System.Xml.Linq.dll.mdb
+C:\Users\Thinker\Documents\Visual Studio 2015\Projects\App4\App4\obj\Debug\android\assets\App4.dll.mdb
+C:\Users\Thinker\Documents\Visual Studio 2015\Projects\App4\App4\obj\Debug\android\assets\Java.Interop.dll.mdb
+C:\Users\Thinker\Documents\Visual Studio 2015\Projects\App4\App4\obj\Debug\android\assets\Mono.Android.dll.mdb
+C:\Users\Thinker\Documents\Visual Studio 2015\Projects\App4\App4\obj\Debug\android\assets\mscorlib.dll.mdb
+C:\Users\Thinker\Documents\Visual Studio 2015\Projects\App4\App4\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+C:\Users\Thinker\Documents\Visual Studio 2015\Projects\App4\App4\obj\Debug\android\assets\System.Core.dll.mdb
+C:\Users\Thinker\Documents\Visual Studio 2015\Projects\App4\App4\obj\Debug\android\assets\System.dll.mdb
+C:\Users\Thinker\Documents\Visual Studio 2015\Projects\App4\App4\obj\Debug\android\assets\System.Net.Http.dll.mdb
+C:\Users\Thinker\Documents\Visual Studio 2015\Projects\App4\App4\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+C:\Users\Thinker\Documents\Visual Studio 2015\Projects\App4\App4\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+C:\Users\Thinker\Documents\Visual Studio 2015\Projects\App4\App4\obj\Debug\android\assets\System.Xml.dll.mdb
+C:\Users\Thinker\Documents\Visual Studio 2015\Projects\App4\App4\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+C:\Users\Thinker\Documents\Visual Studio 2015\Projects\App4\App4\obj\Debug\App4.dll.mdb
+D:\Xamarin Project\App4\App4\bin\Debug\App4.dll.config
+D:\Xamarin Project\App4\App4\bin\Debug\App4.dll
+D:\Xamarin Project\App4\App4\bin\Debug\App4.pdb
+D:\Xamarin Project\App4\App4\bin\Debug\com.mahindra.PaperLessPDI.apk
+D:\Xamarin Project\App4\App4\bin\Debug\com.mahindra.PaperLessPDI-Signed.apk
+D:\Xamarin Project\App4\App4\bin\Debug\Newtonsoft.Json.dll
+D:\Xamarin Project\App4\App4\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+D:\Xamarin Project\App4\App4\bin\Debug\Xamarin.Android.Support.Design.dll
+D:\Xamarin Project\App4\App4\bin\Debug\Xamarin.Android.Support.v4.dll
+D:\Xamarin Project\App4\App4\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+D:\Xamarin Project\App4\App4\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+D:\Xamarin Project\App4\App4\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+D:\Xamarin Project\App4\App4\bin\Debug\ZXing.Net.Mobile.Core.dll
+D:\Xamarin Project\App4\App4\bin\Debug\zxing.portable.dll
+D:\Xamarin Project\App4\App4\bin\Debug\ZXingNetMobile.dll
+D:\Xamarin Project\App4\App4\bin\Debug\Newtonsoft.Json.xml
+D:\Xamarin Project\App4\App4\obj\Debug\App4.dll
+D:\Xamarin Project\App4\App4\obj\Debug\App4.pdb
+D:\Xamarin Project\App4\App4\obj\Debug\android\bin\com.mahindra.PaperLessPDI.apk
+D:\Xamarin Project\App4\App4\obj\Debug\res\layout\app_bar.xml
+D:\Xamarin Project\App4\App4\obj\Debug\res\layout\headerdrawerlayout.xml
+D:\Xamarin Project\App4\App4\obj\Debug\res\layout\homelayout.xml
+D:\Xamarin Project\App4\App4\obj\Debug\res\layout\loginlayout.xml
+D:\Xamarin Project\App4\App4\obj\Debug\res\values\colors.xml
+D:\Xamarin Project\App4\App4\obj\Debug\res\layout\checklistlayout.xml
+D:\Xamarin Project\App4\App4\obj\Debug\res\layout\ckecklistitemlist.xml
+D:\Xamarin Project\App4\App4\obj\Debug\res\layout\remarkupdatelayout.xml
+D:\Xamarin Project\App4\App4\obj\Debug\res\layout\main.xml
+D:\Xamarin Project\App4\App4\obj\Debug\res\values\strings.xml
+D:\Xamarin Project\App4\App4\obj\Debug\res\drawable\icon.png
+D:\Xamarin Project\App4\App4\obj\Debug\res\drawable\alert.png
+D:\Xamarin Project\App4\App4\obj\Debug\res\drawable\barcode1.jpg
+D:\Xamarin Project\App4\App4\obj\Debug\res\drawable\bgr.png
+D:\Xamarin Project\App4\App4\obj\Debug\res\drawable\ic_devices_black_24dp.png
+D:\Xamarin Project\App4\App4\obj\Debug\res\drawable\ic_send_request.png
+D:\Xamarin Project\App4\App4\obj\Debug\res\drawable\lock.png
+D:\Xamarin Project\App4\App4\obj\Debug\res\drawable\mahindralogo.jpg
+D:\Xamarin Project\App4\App4\obj\Debug\res\drawable\mahindrarise.png
+D:\Xamarin Project\App4\App4\obj\Debug\res\drawable\red_button.xml
+D:\Xamarin Project\App4\App4\obj\Debug\res\drawable\rounded_corner.xml
+D:\Xamarin Project\App4\App4\obj\Debug\res\drawable\rounded_withoutcorner.xml
+D:\Xamarin Project\App4\App4\obj\Debug\res\drawable\user.png
+D:\Xamarin Project\App4\App4\obj\Debug\res\values\styles.xml
+D:\Xamarin Project\App4\App4\obj\Debug\res\menu\action_menu.xml
+D:\Xamarin Project\App4\App4\obj\Debug\res\menu\navmenu.xml
+D:\Xamarin Project\App4\App4\obj\Debug\res\drawable\rounded_withoutcornerforheader.xml
+D:\Xamarin Project\App4\App4\obj\Debug\res\drawable\barcode.png
+D:\Xamarin Project\App4\App4\obj\Debug\R.cs.flag
+D:\Xamarin Project\App4\App4\obj\Debug\uploadflags.txt
+D:\Xamarin Project\App4\App4\obj\Debug\App4.csprojResolveAssemblyReference.cache
+D:\Xamarin Project\App4\App4\bin\Debug\App4.dll.mdb
+D:\Xamarin Project\App4\App4\obj\Debug\android\assets\App4.dll.mdb

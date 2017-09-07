@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.mahindra.PaperLessPDI" android:versionCode="1" android:versionName="1.0" android:installLocation="auto">
+  <!--suppress UsesMinSdkAttributes-->
+  <uses-sdk android:minSdkVersion="16" />
+  <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+  <uses-permission android:name="android.permission.FLASHLIGHT" />
+  <uses-permission android:name="android.permission.INTERNET" />
+  <uses-permission android:name="android.permission.CAMERA" />
+  <application android:allowBackup="true" android:theme="@style/MyTheme" android:label="PaperLess PDI" android:icon="@drawable/mahindralogo" android:name="android.app.Application">
+    <activity android:label="CheckListActivity" android:screenOrientation="portrait" android:name="md5066ac93f51537d81d5a988e03c6f5a22.CheckListActivity" />
+    <activity android:label="HomeActivity" android:screenOrientation="portrait" android:name="md5066ac93f51537d81d5a988e03c6f5a22.HomeActivity" />
+    <activity android:label="PaperLess PDI" android:screenOrientation="portrait" android:name="md5066ac93f51537d81d5a988e03c6f5a22.LogInActivity">
+      <intent-filter>
+        <action android:name="android.intent.action.MAIN" />
+        <category android:name="android.intent.category.LAUNCHER" />
+      </intent-filter>
+    </activity>
+    <activity android:icon="@drawable/mahindralogo" android:label="App4" android:screenOrientation="portrait" android:name="md5066ac93f51537d81d5a988e03c6f5a22.MainActivity" />
+    <activity android:label="RemarkUpdateActivity" android:screenOrientation="portrait" android:name="md5066ac93f51537d81d5a988e03c6f5a22.RemarkUpdateActivity" />
+    <activity android:configChanges="keyboardHidden|orientation|screenLayout" android:label="Scanner" android:name="md5ef9f064d53649f8127c2c8b1447b0176.ZxingActivity" />
+    <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="com.mahindra.PaperLessPDI.mono.MonoRuntimeProvider.__mono_init__" />
+  </application>
+</manifest>
