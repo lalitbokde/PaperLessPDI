@@ -1,18 +1,16 @@
 using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
 
 using Android.App;
 using Android.Content;
 using Android.OS;
-using Android.Runtime;
 using Android.Views;
 using Android.Widget;
 using Android.Support.V7.App;
 using Newtonsoft.Json;
 using PaperLessPDI.Adapter;
 using PaperLessPDI.Models;
+using System.Linq;
 
 namespace PaperLessPDI
 {
@@ -26,10 +24,12 @@ namespace PaperLessPDI
         List<GetAllDepartmentNameListModel> ResultGetAllDepartmentEmployeeNameModel;
         GetUserDetailsByTokenNoModel ResultGetUserDetailsByTokenNoModel;
         BarcodeReturnData ResultApiModel;
-        ApiModel _objApiModel;
+        List<ApiModel> _objlistApiModel;
+        ApiModel _objApiModel = new ApiModel();
         GetAllDepartmentNameListModel CheckListNo;
         ListView mListView;
         String sBarcodeItem;
+        
         protected override void OnCreate(Bundle savedInstanceState)
         {
             base.OnCreate(savedInstanceState);
@@ -53,11 +53,25 @@ namespace PaperLessPDI
             sBarcodeItem = tvBarcodeItem.Text.Trim();
             //sBarcodeItem = StatusModel.BarcodeItem.Substring(2,3);
             BarcodeCheck();
-
+            mListView.ItemClick += MListView_ItemClick;
             btnAccept.Click += BtnAccept_Click;
             btnDecline.Click += BtnDecline_Click;
+            mListView.ItemLongClick += MListView_ItemLongClick;
         }
-        
+
+        private void MListView_ItemLongClick(object sender, AdapterView.ItemLongClickEventArgs e)
+        {
+            _objApiModel = (_objlistApiModel.ElementAt(e.Position));
+            StatusModel.ChecklistID = _objApiModel.CheckListId;
+            Intent intent = new Intent(this, typeof(ChecklistStatusActivity));
+            this.StartActivity(intent);
+        }
+
+        CheckListStatusModel objCheckListStatusModel = new CheckListStatusModel();
+        private void MListView_ItemClick(object sender, AdapterView.ItemClickEventArgs e)
+        {
+          
+        }
 
         private void BtnDecline_Click(object sender, EventArgs e)
         {
@@ -95,7 +109,7 @@ namespace PaperLessPDI
 
                 }
             }
-            
+
 
             if (AllChecked)
             {
@@ -260,7 +274,7 @@ namespace PaperLessPDI
                 dialog.Show();
             }
         }
-        
+
         public async void UpdateCheckListItem(BarcodeReturnData _objBarcodeReturnData)
         {
             try
@@ -347,6 +361,7 @@ namespace PaperLessPDI
                 // Toast.MakeText(this, ResultApiModel.msg.ToString(), ToastLength.Long).Show();
                 if (ResultApiModel.checkListItem != null)
                 {
+                    _objlistApiModel = ResultApiModel.checkListItem;
                     mListView.Adapter = new CheckListAdapter(this, ResultApiModel.checkListItem);
                 }
                 else

@@ -11,6 +11,7 @@ namespace PaperLessPDI.Models
         public static int UserTokenNo;
         public static int UserID;
         public static string BarcodeItem = "";
+        public static int ChecklistID;
     }
 
     public class ResponseMessege
@@ -62,7 +63,7 @@ namespace PaperLessPDI.Models
         public List<ApiModel> checkListItem { get; set; }
     }
 
-    public class ApiModel 
+    public class ApiModel
     {
         public int ProcessCheckListId { get; set; }
         public int ProcessId { get; set; }
@@ -84,7 +85,17 @@ namespace PaperLessPDI.Models
         {
             this.selected = selected;
         }
-        
-    }
 
+    }
+    public class CheckListStatusModel
+    {
+        public string UserName { get; set; }
+        public string DepartmentName { get; set; }
+        public bool Status { get; set; }
+        public string Remark { get; set; }
+        public string Barcode { get; set; }
+        public long CheckListId { get; set; }
+        public int success { get; set; }
+        public string msg { get; set; }
+    }
 }
