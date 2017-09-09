@@ -50,17 +50,17 @@ namespace PaperLessPDI.Adapter
             if (item != null)
             {
                 string CheckListstatus = "", Department="";
-                if (item.Status == null)
+                if (item.Status == false && item.Remark=="")
                 {
                     CheckListstatus = "Not Attend";
                 }
                 else if (item.Status == false)
                 {
-                    CheckListstatus = "Decline";
+                    CheckListstatus = "Not OK";
                 }
                 else if (item.Status == true)
                 {
-                    CheckListstatus = "Accept";
+                    CheckListstatus = "OK";
                 }
 
                 if (item.DepartmentName == null)
