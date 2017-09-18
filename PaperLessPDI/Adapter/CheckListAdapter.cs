@@ -20,8 +20,7 @@ namespace PaperLessPDI.Adapter
                 : base()
         {
             this.context = _context;
-            this.list = _list;
-
+            this.list = _list;                  
         }
 
         public override int Count
@@ -60,14 +59,7 @@ namespace PaperLessPDI.Adapter
                 convertView.SetTag(Resource.Id.lblChecklistItemName, holder.tvCheckListItemName);
                 convertView.SetTag(Resource.Id.txtRemark, holder.edRemark);
                 convertView.SetTag(Resource.Id.chkOk, holder.chkOk);
-
-                if (list[position].ProcessCheckListId != 0)
-                {
-                    holder.chkOk.SetOnCheckedChangeListener(new CheckChangeListner(list, convertView, this));
-                }
-
-                
-
+                    
             }
 
             else
@@ -90,6 +82,10 @@ namespace PaperLessPDI.Adapter
                 }
             };
 
+            if (list[position].ProcessCheckListId != 0)
+            {
+                holder.chkOk.SetOnCheckedChangeListener(new CheckChangeListner(list, convertView, this));
+            }
             //if (list[position].Remark.ToString() != "")
             //    if (holder.tvSrNo.Text == (position + 1).ToString())
             //    {
@@ -101,7 +97,7 @@ namespace PaperLessPDI.Adapter
             holder.tvSrNo.Text = (position + 1).ToString();
             holder.tvCheckListItemName.Text = list[position].CheckListName == null ? "" : list[position].CheckListName.ToString();
             holder.edRemark.Text = list[position].Remark == null ? "" : list[position].Remark.ToString();
-            holder.chkOk.Checked = (list[position].isSelected());        
+            holder.chkOk.Checked = list[position].isSelected();        
             return convertView;
         }
 

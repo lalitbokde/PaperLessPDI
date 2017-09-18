@@ -33,13 +33,10 @@
         <CheckBox
             android:layout_width="0dip"
             android:layout_height="fill_parent"
-            android:layout_weight="0.3"
-            android:typeface="sans"
-            android:gravity="center_vertical|center_horizontal"
-            android:layout_gravity="center_vertical|center_horizontal"
-            android:layout_centerInParent="true"
+            android:layout_weight="0.25"
             android:id="@+id/chkOk"
-            android:background="@drawable/rounded_withoutcorner" />
+            android:background="@drawable/rounded_withoutcorner"
+            android:gravity="center" />
         <EditText
             android:layout_width="0dip"
             android:layout_height="fill_parent"

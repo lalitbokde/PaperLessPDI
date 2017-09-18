@@ -3,6 +3,7 @@
   <PropertyGroup>
     <AndroidDesignerPreferredDevice>5.4in FWVGA</AndroidDesignerPreferredDevice>
     <ProjectView>ShowAllFiles</ProjectView>
-    <SelectedDevice>YU AO5510</SelectedDevice>
+    <SelectedDevice>Samsung SM-T311</SelectedDevice>
+    <AndroidDesignerPreferredTheme>MyTheme.Base</AndroidDesignerPreferredTheme>
   </PropertyGroup>
 </Project>
