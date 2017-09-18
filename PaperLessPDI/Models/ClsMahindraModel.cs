@@ -6,7 +6,7 @@ namespace PaperLessPDI.Models
 {
     public static class StatusModel
     {
-        public static string Url = "http://192.168.0.3:8080/APIForMobile/";
+        public static string Url = "http://192.168.0.5:8080/APIForMobile/";
 
         //public static string Url = "http://outletdealer.suvarnapp.com/APIForMobile/";
         public static int UserTokenNo;

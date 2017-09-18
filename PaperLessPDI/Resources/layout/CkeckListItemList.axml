@@ -33,7 +33,7 @@
         <CheckBox
             android:layout_width="0dip"
             android:layout_height="fill_parent"
-            android:layout_weight="0.25"
+            android:layout_weight="0.3"
             android:id="@+id/chkOk"
             android:background="@drawable/rounded_withoutcorner"
             android:gravity="center" />
