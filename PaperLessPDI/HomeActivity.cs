@@ -22,6 +22,8 @@ namespace PaperLessPDI
     [Activity(Label = "HomeActivity", ScreenOrientation = Android.Content.PM.ScreenOrientation.Portrait)]
     public class HomeActivity : AppCompatActivity
     {
+        Button flashButton;
+        View zxingOverlay;
         MobileBarcodeScanner scanner;
         ImageButton btnBarCodeScan;
         DrawerLayout drawerLayout;
@@ -79,7 +81,17 @@ namespace PaperLessPDI
 
                 scanner.TopText = "Above the text";
                 scanner.BottomText = "The following text";
+                scanner.UseCustomOverlay = true;
 
+                //Inflate our custom overlay from a resource layout
+                zxingOverlay = LayoutInflater.FromContext(this).Inflate(Resource.Layout.ZxingOverlay, null);
+
+                //Find the button from our resource layout and wire up the click event
+                flashButton = zxingOverlay.FindViewById<Button>(Resource.Id.buttonZxingFlash);
+                flashButton.Click += FlashButton_Click;
+
+                //Set our custom overlay
+                scanner.CustomOverlay = zxingOverlay;
                 var result = await scanner.Scan();
                 HandleScanResult(result);
             }
@@ -89,6 +101,11 @@ namespace PaperLessPDI
             }
         }
 
+        private void FlashButton_Click(object sender, EventArgs e)
+        {     
+            flashButton.Text = "FLASH OFF";
+            scanner.ToggleTorch();
+        }
 
         void HandleScanResult(ZXing.Result result)
         {

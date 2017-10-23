@@ -116,6 +116,7 @@
     <AndroidResource Include="Resources\layout\ChecklistStatuslayout.axml">
       <SubType>Designer</SubType>
     </AndroidResource>
+    <AndroidResource Include="Resources\layout\ZxingOverlay.axml" />
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\values\Strings.xml">

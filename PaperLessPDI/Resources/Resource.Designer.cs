@@ -2345,6 +2345,9 @@ namespace PaperLessPDI
 			// aapt resource value: 0x7f07004b
 			public const int buttonPanel = 2131165259;
 			
+			// aapt resource value: 0x7f0700c6
+			public const int buttonZxingFlash = 2131165382;
+			
 			// aapt resource value: 0x7f0700b1
 			public const int cancel_action = 2131165361;
 			
@@ -2378,8 +2381,8 @@ namespace PaperLessPDI
 			// aapt resource value: 0x7f070093
 			public const int container = 2131165331;
 			
-			// aapt resource value: 0x7f0700c6
-			public const int contentFrame = 2131165382;
+			// aapt resource value: 0x7f0700c7
+			public const int contentFrame = 2131165383;
 			
 			// aapt resource value: 0x7f07004e
 			public const int contentPanel = 2131165262;
@@ -2573,8 +2576,8 @@ namespace PaperLessPDI
 			// aapt resource value: 0x7f070048
 			public const int list_item = 2131165256;
 			
-			// aapt resource value: 0x7f0700c8
-			public const int masked = 2131165384;
+			// aapt resource value: 0x7f0700c9
+			public const int masked = 2131165385;
 			
 			// aapt resource value: 0x7f0700b3
 			public const int media_actions = 2131165363;
@@ -2834,8 +2837,8 @@ namespace PaperLessPDI
 			// aapt resource value: 0x7f07000e
 			public const int view_offset_helper = 2131165198;
 			
-			// aapt resource value: 0x7f0700c7
-			public const int visible = 2131165383;
+			// aapt resource value: 0x7f0700c8
+			public const int visible = 2131165384;
 			
 			// aapt resource value: 0x7f070027
 			public const int withText = 2131165223;
@@ -3104,10 +3107,13 @@ namespace PaperLessPDI
 			public const int support_simple_spinner_dropdown_item = 2130903108;
 			
 			// aapt resource value: 0x7f030045
-			public const int zxingscanneractivitylayout = 2130903109;
+			public const int ZxingOverlay = 2130903109;
 			
 			// aapt resource value: 0x7f030046
-			public const int zxingscannerfragmentlayout = 2130903110;
+			public const int zxingscanneractivitylayout = 2130903110;
+			
+			// aapt resource value: 0x7f030047
+			public const int zxingscannerfragmentlayout = 2130903111;
 			
 			static Layout()
 			{
